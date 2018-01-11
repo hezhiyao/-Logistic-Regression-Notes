@@ -1,2 +1,2 @@
-# -Logistic-Regression-Notes
+# Logistic-Regression-Notes
  Logistic Regression Notes
